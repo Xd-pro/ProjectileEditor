@@ -7,7 +7,7 @@ class ProjectileModification {
     private ?float $throwForce;
     private ?int $hitDelay;
     
-    public function __construct(?float $throwForce = null, ?float $hitDelay = null)
+    public function __construct(?float $throwForce = null, ?int $hitDelay = null)
     {
         $this->throwForce = $throwForce;
         $this->hitDelay = $hitDelay;
