@@ -1,0 +1,7 @@
+---
+name: ProjectileEditor
+version: 0.0.1
+main: LemoniqPvP\ProjectileEditor\Main
+api: 4.0.0
+src-namespace-prefix: LemoniqPvP\ProjectileEditor
+...
